@@ -1,5 +1,6 @@
 # Tictactoe challange Finished;
-Only use js-file ;
+#..but link/script only work on linux ?.Tictactoe,my 2 player game works for andoid,windows,Linux, regaedless of smartphone/tab/laptop use.This code is developed from the 2 player game.(?).See versions 3 for windows etc in 'repositorys'.
+JS Challange:Only use js-file!.GPT is sheating,google ok. 
 Make Human/Computer Game.
 Make 'boxHuman' hoover when crusing over boxes.Use mouseout/mouseOver.
 Make winning array.
